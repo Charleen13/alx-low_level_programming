@@ -12,5 +12,6 @@
 int add(int a, int d)
 {
 	return (a + d);
+	_putchar('\n');
 }
 
